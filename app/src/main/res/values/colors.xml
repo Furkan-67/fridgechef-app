@@ -1,0 +1,15 @@
+<resources>
+    <color name="green">#2E7D4F</color>
+    <color name="green_light">#E6F4EA</color>
+    <color name="orange">#F28C28</color>
+    <color name="orange_light">#FFF3E6</color>
+    <color name="cream">#FFFAF3</color>
+    <color name="text">#2B2B2B</color>
+    <color name="muted">#777777</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gold">#FFD59E</color>
+    <color name="miss_bg">#FDECEA</color>
+    <color name="miss_text">#C0392B</color>
+    <color name="bar_bg">#EEEEEE</color>
+    <color name="clear_bg">#F1F1F1</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FridgeChef</string>
+    <string name="subtitle">Tell us what is in your kitchen, and we will tell you what you can cook. Less food waste, more tasty meals!</string>
+    <string name="how_title">How it works</string>
+    <string name="step1">🧺  1. Pick ingredients — select what you have at home</string>
+    <string name="step2">🔎  2. We match — search 50 recipes in our database</string>
+    <string name="step3">🍽️  3. Start cooking — see what you can make and what is missing</string>
+    <string name="pick_title">What do you have in your kitchen?</string>
+    <string name="pick_hint">Tap the ingredients you have. Salt, pepper, oil and water are assumed to be available.</string>
+    <string name="search_hint">Search an ingredient (e.g. eggs, tomato)…</string>
+    <string name="clear_button">Clear all</string>
+    <string name="only_ready">Show only recipes I can cook now</string>
+    <string name="footer">FridgeChef © 2026 · A recipe suggestion app with 50 recipes</string>
+</resources>
